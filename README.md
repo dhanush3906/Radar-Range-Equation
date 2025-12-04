@@ -66,8 +66,6 @@ plot(pmin,Rmax3);
 <img width="1706" height="1005" alt="image" src="https://github.com/user-attachments/assets/65c4d83b-fe13-4ea7-a31b-05a863606742" />
 
 Manual Calculation
-![WhatsApp Image 2025-12-03 at 13 33 40_9e70f08b](https://github.com/user-attachments/assets/ff8bd330-3a3d-4d39-b4c7-4a10f870a763)
-
 ![exp 10](https://github.com/user-attachments/assets/fab7b2ca-f676-4f2f-9013-3331a5f43717)
 
 Result
